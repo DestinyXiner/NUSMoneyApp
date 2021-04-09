@@ -13,7 +13,8 @@ const TransactionDataAll = [
     { id: 2, customername: 'Flora', bank: 'OCBC', deposit: 4000, loan: 2000 },
     { id: 3, customername: 'Mikhil', bank: 'DBS', deposit: 3000, loan: 2000 },
     { id: 4, customername: 'Sashil', bank: 'UOB', deposit: 6000, loan: 1000 },
-    { id: 5, customername: 'Jack', bank: 'UOB', deposit: 6000, loan: 8000 }
+    { id: 5, customername: 'Jack', bank: 'UOB', deposit: 6000, loan: 8000 },
+    { id: 6, customername: 'DestinyXin', bank: 'DBS', deposit: 8888, loan: 88 } //Teammate add one customer
 ];
 
 var TransactionData = null;
